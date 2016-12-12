@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m a Dominican/Spanish graphic designer currently living in Barcelona. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+After graduating from high school I decided to leave my home country of the Dominican Republic and move to the United States, where I was awarded a full scholarship to study Advertising at Michigan State University. I graduated with a Bachelor of Arts in 2015 and moved to Barcelona where I did a Masters in Graphic Design, at ELISAVA School of Design and Engineering.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I’m inspired by the greatness in simple things. I continue to question how good design works, and try to challenge myself daily. Specialized in branding, editorial, and web design.
