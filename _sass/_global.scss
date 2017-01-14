@@ -10,7 +10,9 @@ body {
 a {
   color: inherit;
   font-weight: 600;
-  &:hover {
+  &:hover,
+  &:active,
+  &:focus {
     color: inherit;
     text-decoration: line-through;
   }
