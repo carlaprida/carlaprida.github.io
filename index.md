@@ -5,4 +5,6 @@
 layout: default
 ---
 
-Hello, World
+Carla Prida is a dominican/spanish [graphic designer]({{site.url}}/downloads/cv_CarlaPrida_eng.pdf), specialized in branding and web design. Currently living in Barcelona, and available for freelance and all things artsy.
+
+Check out some of her [work](https://www.behance.net/carlaprida), don’t be shy and just say [hi](mailto:carla.prida@gmail.com).
