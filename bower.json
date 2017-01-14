@@ -1,0 +1,21 @@
+{
+  "name": "carlaprida.com",
+  "homepage": "https://github.com/carlaprida/carlaprida.github.io",
+  "authors": [
+    "manueljtejada <manute32@gmail.com>"
+  ],
+  "description": "Carla Prida is a dominican/spanish graphic designer, specialized in branding and web design. Currently living in Barcelona, and available for freelance and all things artsy.",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
