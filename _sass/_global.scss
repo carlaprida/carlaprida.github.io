@@ -1,0 +1,23 @@
+body {
+  padding: 70px 0;
+}
+
+.home-description {
+  color: #000000;
+  font-size: 24px;
+}
+
+a {
+  color: inherit;
+  font-weight: 600;
+  &:hover {
+    color: inherit;
+    text-decoration: line-through;
+  }
+}
+
+@media (min-width: 768px) {
+  .home-description {
+    font-size: 50px;
+  }
+}
