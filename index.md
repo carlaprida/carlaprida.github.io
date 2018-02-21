@@ -1,10 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
 
-Carla Prida is a dominican/spanish [graphic&nbsp;designer]({{site.url}}/downloads/cv_CarlaPrida.pdf){:target="\_blank"}, specialized in branding and&nbsp;web design. Currently living in Barcelona,&nbsp;and&nbsp;available for freelance and&nbsp;all&nbsp;things artsy.
+Hola! I’m Carla Prida a dominican/spanish Graphic Designer currently based in Barcelona. I hold a Bachelor’s Degree in Advertising from Michigan State University (MSU), and a Masters in Graphic Communication and Editorial Design from ELISAVA. I’m passionate in understanding the simplicity of greatness, and a firm believer in the strong conceptualization of ideas. You can check out some of my work [here](https://www.behance.net/carlaprida). If you like it, don’t forget to spread the love!
 
-Check out some of her [work](https://www.behance.net/carlaprida){:target="\_blank"} and&nbsp;don’t be shy, just say [hi](mailto:carla.prida@gmail.com){:target="_blank"}.
+I’m available for all things artsy, so if you’re interested in collaborating with me don’t be shy, send me an [email](mailto:carla.prida@gmail.com){target="_blank"} and just say hi!
+
+[cv]({{site.url}}/downloads/cv_CarlaPrida.pdf){:target="\_blank"}&nbsp;&nbsp;[email](mailto:carla.prida@gmail.com){target="_blank"}&nbsp;&nbsp;[behance](https://www.behance.net/carlaprida){:target="\_blank"}&nbsp;&nbsp;[instagram](https://www.instagram.com/carlaprida){:target="\_blank"}
