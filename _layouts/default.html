@@ -41,4 +41,16 @@
 			</div>
 		<!-- </main> -->
 	</body>
+	<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+	<script type="text/babel">
+		const	colors = [
+			'#dead54',
+			'#e05038',
+			'#f2cbbc',
+			'#3f543d'
+		]
+
+		const random = Math.floor((Math.random() * 4));
+		document.body.style.background = colors[random];
+	</script>
 </html>
