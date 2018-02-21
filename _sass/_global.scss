@@ -16,12 +16,14 @@ body {
 
 a {
   color: inherit;
-  font-weight: 500;
+  text-decoration: underline;
+
   &:hover,
   &:active,
   &:focus {
-    color: inherit;
-    text-decoration: line-through;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
   }
 }
 
