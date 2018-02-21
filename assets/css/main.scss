@@ -1,6 +1,27 @@
 ---
 ---
 
+@font-face {
+  font-family: 'GT Walsheim Pro';
+  src: url('../assets/fonts/GT-Walsheim-Pro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT Walsheim Pro';
+  src: url('../assets/fonts/GT-Walsheim-Pro-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT Walsheim Pro';
+  src: url('../assets/fonts/GT-Walsheim-Pro-Bold-Oblique.ttf') format('truetype');
+  font-weight: bold;
+  font-style: oblique;
+}
+
 @import 'variables';
 @import '../bower_components/bootstrap/scss/bootstrap.scss';
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,500');

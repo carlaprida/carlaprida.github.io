@@ -11,7 +11,7 @@ body {
   color: #000000;
   font-size: 24px;
   width: 100%;
-  padding: 4rem;
+  padding: 2rem;
 }
 
 a {
@@ -29,6 +29,11 @@ a {
 
 @media (min-width: 768px) {
   .home-description {
-    font-size: 46px;
+    font-size: 32px;
+    padding: 4rem;
+  }
+
+  p {
+    margin-bottom: 2rem;
   }
 }
